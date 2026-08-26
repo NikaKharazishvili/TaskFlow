@@ -1,0 +1,25 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+
+## Rider
+.idea/
+
+## User secrets
+*.pfx
+appsettings.Local.json
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+
+## NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
